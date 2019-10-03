@@ -1,0 +1,7 @@
+C:\Najib\FSD\SourceCode\24_LINQ_Assignment_01\24_LINQ_Assignment_01\bin\Debug\24_LINQ_Assignment_01.exe.config
+C:\Najib\FSD\SourceCode\24_LINQ_Assignment_01\24_LINQ_Assignment_01\bin\Debug\24_LINQ_Assignment_01.exe
+C:\Najib\FSD\SourceCode\24_LINQ_Assignment_01\24_LINQ_Assignment_01\bin\Debug\24_LINQ_Assignment_01.pdb
+C:\Najib\FSD\SourceCode\24_LINQ_Assignment_01\24_LINQ_Assignment_01\obj\Debug\24_LINQ_Assignment_01.csprojAssemblyReference.cache
+C:\Najib\FSD\SourceCode\24_LINQ_Assignment_01\24_LINQ_Assignment_01\obj\Debug\24_LINQ_Assignment_01.csproj.CoreCompileInputs.cache
+C:\Najib\FSD\SourceCode\24_LINQ_Assignment_01\24_LINQ_Assignment_01\obj\Debug\24_LINQ_Assignment_01.exe
+C:\Najib\FSD\SourceCode\24_LINQ_Assignment_01\24_LINQ_Assignment_01\obj\Debug\24_LINQ_Assignment_01.pdb
